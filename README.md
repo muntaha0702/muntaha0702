@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntaha0702&label=Profile%20views&color=0e75b6&style=flat" alt="muntaha0702" /> </p>
 
-- 🌱 I’m currently learning **Data Structures(Java)**
 
 - 👯 I’m looking to collaborate on **PHP Laravel Projects**
 
