@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **PHP Laravel Projects**
 
-- 💬 Ask me about **PHP,Laravel,MySql,MongoDB**
+- 💬 Ask me about **PHP,Laravel,Java,MySql,MongoDB**
 
 - 📫 How to reach me **muntaha.tabassum31109@gmail.com**
 
